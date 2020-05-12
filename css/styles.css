@@ -1,0 +1,50 @@
+
+body {
+  background-image:url('https://i.pinimg.com/originals/14/33/98/14339869b9f28c62361b356404ccd3d3.gif');
+  background-size:  100vh;
+  height: 100vh;
+  
+}
+
+.menu ul{
+  display: flex;
+  justify-content: space-around;
+}
+.menu li{
+   list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Segoe UI', cursive;
+  background-color: #BA55D3;
+  opacity: 0.6;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: rgba(23, 181, 243, 0.7);
+}
+
+ 
+.site-title{
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: verdana;
+}
+
+.site-subtitle{
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 30px;
+  font-family: verdana;
+  font-size: medium;
+}
+
+

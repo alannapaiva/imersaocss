@@ -1,0 +1,11 @@
+body {
+    background-color: violet;
+    background-size:  100vh;
+    height: 100vh;
+    
+  }
+
+  h1{
+      font-family: cursive;
+      color: red;
+  }
